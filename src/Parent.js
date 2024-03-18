@@ -10,6 +10,7 @@ function Parent() {
     <div className="parent" style={{ backgroundColor: color }}>
       <Child />
       <Child />
+      <Child />
     </div>
   );
 }
